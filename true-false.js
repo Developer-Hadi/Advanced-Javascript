@@ -10,7 +10,7 @@ else{
 let name2;
 console.log(name2);
 
-// False value;
+// Falsy value;
 // 0
 // ""
 // undefined
